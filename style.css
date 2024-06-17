@@ -53,4 +53,52 @@ body {
 .botao_quaternario {
     background-color: transparent;
     border: 2px solid var(--branco-principal);
+
+}
+
+.container__titulo {
+    font: 28px;
+    font-weight: 700;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.descriçao__titulo {
+    color: var(--cinza-secundario);
+}
+
+.secundario__botao {
+    display: inline-block;
+    margin-top: 1em;
+}
+
+.container__descriçao {
+    padding: 2em;
+}
+
+.dispositivos__lista {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    margin: 5em 0;
 }
